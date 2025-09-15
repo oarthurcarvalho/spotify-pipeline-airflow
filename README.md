@@ -58,6 +58,7 @@ O pipeline é composto pelas seguintes etapas:
 Esse pipeline garante que, a cada 2 horas, novos dados sejam coletados, enriquecidos e disponibilizados para análise no **dashboard interativo**.
 
 ## Dashboard
+[![Abrir no Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://my-spotify-wrapped.streamlit.app/)
 
 O Dashboard apresenta os resultados em gráficos interativos:
 
