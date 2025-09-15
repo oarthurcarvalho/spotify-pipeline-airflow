@@ -18,7 +18,7 @@ Com base neste problemas, eu gostaria:
 
 A orquestração do projeto foi feita no **Apache Airflow**, utilizando uma DAG que automatiza todo o processo de ingestão, transformação e carga.
 
-![Fluxograma Airflow](images/fluxograma-airlfow.png)
+![Fluxograma Airflow](images/fluxograma-airflow.png)
 
 O pipeline é composto pelas seguintes etapas:
 
