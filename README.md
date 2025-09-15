@@ -1,6 +1,6 @@
 # Spotify Wrapped Pipeline com Airflow
 
-![Logo da Spotify](images/fluxograma-airlfow.png)
+![Logo da Spotify](images/spotify-logo.png)
 
 Este projeto nasceu da vontade de recriar, de forma independente, a retrospectiva musical do Spotify (Spotify Wrapped). Este recurso é uma análise dos hábitos musicas dos usuários do serviço, liberado ao final do ano.
 A ideia foi construir um **pipeline de dados completo**, passando desde a coleta bruta na API do Spotify até a visualização em um dashboard interativo.
